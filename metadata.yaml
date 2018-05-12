@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40828
 description: The Ifugao law is a typical example of the extent of private law, a system
   that is implemented almost entirely without benefit of government.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40807#Ifugao-Law-In-American-Archaeology-and-Ethnology-Vol.-15-No.-1-
 gutenberg_issued: '2012-09-20'
 gutenberg_type: Text
 identifiers:
