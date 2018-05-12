@@ -1,0 +1,32 @@
+_repo: Ifugao-Law-In-American-Archaeology-and-Ethnology-Vol.-15-No.-1-_40807
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40807-h/images/new-cover.jpg
+creator:
+  author:
+    agent_name: Barton, Roy Franklin
+    alias: Barton, R. F. ( Roy Franklin)
+    birthdate: 1883
+    deathdate: 1947
+    gutenberg_agent_id: '40828'
+    url: http://www.gutenberg.org/2009/agents/40828
+description: The Ifugao law is a typical example of the extent of private law, a system
+  that is implemented almost entirely without benefit of government.
+gutenberg_issued: '2012-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40807'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Ifugao (Philippine people)'
+- !lcsh 'Ethnology -- Philippines'
+- !lcsh 'Law, Primitive -- Philippines'
+title: 'Ifugao Law
+
+  (In American Archaeology and Ethnology, Vol. 15, No. 1)'
+url: http://www.gutenberg.org/ebooks/40807
